@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: rose
+theme: custom
 day_night: false
-font: ''
+font: 'my_font1_set'
 font_size: M
 
 # SEO
