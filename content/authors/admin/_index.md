@@ -14,26 +14,26 @@ organizations:
   url: https://www.auckland.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mobile health and grounded theory.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Grounded Theory
+- Mobile Health and Digital Health
+- Health Informatics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doctor of Philosophy
+    institution: School of Population Health, University of Auckland
+    year: 2023
+  - course: Master of Nursing
+    institution: School of Nursing, Peking Union Medical College
+    year: 2018
+  - course: Bachelor of Science (Nursing)
+    institution: School of Nursing, Peking Union Medical College
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +45,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Rwan22121
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Rui-Wang-468
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://ruiwangwebsite.netlify.app/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/rui-wang-6b7452b9/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Rui Wang. I'm an international Ph.D. candidate at the School of Population Health in the University of Auckland. I love the multicultural inclusiveness of New Zealand and hope to be a grounded theory scholar in the New Zealand way. I'm interested to hear about a variety of views and perspectives from people in New Zealand to expand my knowledge. I am passionate about supporting the wellbeing of people, hence my research into the role of mHealth technologies in supporting physical activity related to a healthy body weight. This is important research in the developed world where food maybe abundant and where work and leisure are increasingly sedentary. I aim to develop a theory about the relationships between mHealth technologies, physical activity, and healthy body weight, to support people to better manage their wellness. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
