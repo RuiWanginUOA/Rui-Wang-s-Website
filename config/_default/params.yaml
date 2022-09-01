@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: rui.wang@auckland.ac.nz
-phone: +64(0)22 532 6408
+phone: +64 (0)22 532 6408
 address:
   street: 55 Symonds Street
   city: Auckland
@@ -34,9 +34,9 @@ contact_links:
     icon_pack: fab
     name: Twitter_@Rwan22121
     link: https://twitter.com/Rwan22121
-  - icon: Facebook_Rui Wang
+  - icon: facebook
     icon_pack: fab
-    name: facebook
+    name: Facebook_Rui Wang
     link: https://www.facebook.com/profile.php?id=100062651123921
   - icon: linkedin
     icon_pack: fab
