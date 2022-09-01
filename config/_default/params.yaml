@@ -20,40 +20,29 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: rui.wang@auckland.ac.nz
+phone: +64(0)22 532 6408
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  street: 55 Symonds Street
+  city: Auckland
+  region: Auckland
+  postcode: '1010'
+  country: New Zealand
+  country_code: NZ
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Twitter_@Rwan22121
+    link: https://twitter.com/Rwan22121
+  - icon: Facebook_Rui Wang
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: facebook
+    link: https://www.facebook.com/profile.php?id=100062651123921
+  - icon: linkedin
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Linkedin_Rui Wang
+    link: https://www.linkedin.com/in/rui-wang-6b7452b9/
+  
 
 # Site header
 

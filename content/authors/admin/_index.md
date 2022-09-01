@@ -46,8 +46,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Rwan22121
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: researchgate
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Rui-Wang-468
 - icon: github
   icon_pack: fab
