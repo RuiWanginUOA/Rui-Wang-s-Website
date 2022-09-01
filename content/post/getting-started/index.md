@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: '/Users/wangrui/Documents/GitHub/Rui-Wang-s-Website/content/post/getting-started/IMG_3556.JPG'
+  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/post/getting-started/featured.jpg'
   focal_point: ""
   placement: 2
   preview_only: false
