@@ -22,8 +22,8 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:IMG_3556.JPG
-  caption: 'Image credit: [**Unsplash**](/Users/wangrui/Documents/GitHub/Rui-Wang-s-Website/content/post/getting-started/IMG_3556.JPG)'
+image:
+  caption: '/Users/wangrui/Documents/GitHub/Rui-Wang-s-Website/content/post/getting-started/IMG_3556.JPG'
   focal_point: ""
   placement: 2
   preview_only: false
