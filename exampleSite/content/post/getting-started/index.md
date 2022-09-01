@@ -9,10 +9,10 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-09-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: '/Users/wangrui/Documents/GitHub/Rui-Wang-s-Website/exampleSite/content/post/getting-started/IMG_3556.JPG'
   focal_point: ""
   placement: 2
   preview_only: false
