@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: Research Blogs
 cms_exclude: true
 
 # View.
