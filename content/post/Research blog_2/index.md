@@ -50,7 +50,7 @@ categories:
 Kia ora everyone,
 
 We're thrilled to let you know that recruitment in our research is now open! Bring your unique stories and ideas to help us round out our interview study on topics of weight issues, physical activity, and the value of mobile health.
-If you are interested in this study, please follow [**the link**](https://auckland.au1.qualtrics.com/jfe/form/SV_bOfETKNZCCuHHjo), scan the QR code, or just send **an email** (rui.wang@auckland.ac.nz) to find more information and complete the registration process. 
+If you are interested in this study, please follow [**the link**](https://auckland.au1.qualtrics.com/jfe/form/SV_bOfETKNZCCuHHjo), scan the [**QR code**](https://docs.google.com/presentation/d/e/2PACX-1vSBiJOKZiKMiDmpjQzgdY-HUFVSCLZGIw59BaVAfMxtl9eyqqfXzWkRGQwJiUtOAnfSHb81x9r5QEz2/pub?start=false&loop=false&delayms=30000), or just **email** rui.wang@auckland.ac.nz to find more information and complete the registration process. 
 Or take a copy of this post with the QR code to share with your whānau/friends/ colleagues to get them to join us too. 
 
 Thank you!
