@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Your smartphone might be the key to your exercise
+subtitle: Welcome 👋 Have you noticed that your smartphone or wearable device is recording your exercise every day? Are you interested in setting goals, real-time recording and forming self-feedback via it to develop your own electronic exercise log. Come and have a look at my first blog！
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Overweight issues are ubiquitous and long-lasting. Yet, most approaches to weight management, such as a healthy diet and regular physical activity, are self-directed. Physical activity, from the simplest of walks to intensive gym workouts, provides varying levels of daily exertion and has become one of the most cost-effective and practical ways for weight loss.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2022-09-01"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-09-01"
 
 # Is this an unpublished draft?
 draft: false
@@ -29,16 +29,16 @@ image:
   preview_only: false
 
 authors:
-- admin
-- 吳恩達
+- Rui Wang
 
 tags:
-- Academic
-- 开源
+- smartphone
+- wearable device
+- physical activity
+- exercise
 
 categories:
-- Demo
-- 教程
+- Blog
 ---
 
 ## Overview
