@@ -32,6 +32,9 @@ url_video: ""
 ## Concerned about your weight?
 
 With just a few simple steps, you can get a clear overview of your Body Mess Index (BMI)！
+
 Please click on any of the links below and go to the BMI Calculator page:
+
 👉 [**Healthy weight BMI calculator丨Ministry of Health NZ**](https://www.health.govt.nz/your-health/healthy-living/food-activity-and-sleep/healthy-weight-bmi-calculator)
+
 👉 [**BMI calculator丨Calculator Net**](https://www.calculator.net/bmi-calculator.html)
