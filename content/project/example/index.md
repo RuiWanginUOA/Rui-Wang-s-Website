@@ -1,6 +1,6 @@
 ---
-title: Research Tools
-summary: A list of some practical research tools
+title: Research Tool_BMI Calculator
+summary: A tool of calculating your BMI
 tags:
 - Other
 date: "2022-09-01T00:00:00Z"
