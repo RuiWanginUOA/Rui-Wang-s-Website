@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jun 2021
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -24,21 +24,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/BPTMVSPAAFME
-  date_end: "2021-08"
-  date_start: "2021-07"
-  description: ""
+  date_end: "Aug 2021"
+  date_start: "Jul 2021"
+  description: 
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Programming for Everybody (Getting Started with Python)
-  url: ""
+  url: 
+
 - certificate_url: https://www.linkedin.com/in/rui-wang-6b7452b9/details/experience/1809184404/multiple-media-viewer/?treasuryMediaId=1635465425116
-  date_end: "2021-08"
-  date_start: "2021-06"
-  description: ""
+  date_end: "Aug 2021"
+  date_start: "Jun 2021"
+  description: 
   organization: University of Auckland Micro-Internship 
   organization_url: https://www.talentsolutions.co.nz/
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  title:  Highly Commended Consultant
+  url: 
 
 design:
   columns: '2' 
