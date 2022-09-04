@@ -31,14 +31,24 @@ experience:
     date_end: '2014-12'
     description: The 2014 Pre-ICN Nursing Student Assembly under the theme of Global Nursing Education-Challenges for Change was preliminarily held in order to host ICN Nursing Student Assembly successfully on June, 2015. I was honored to be invited to give an oral presentation as a representative of Chinese students.The topics of the presentation focused on Chinese nursing education system with relation to curriculum, National Licensure Examination for Registered Nurse, faculty ratio, and so on. 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: International Nurses' Day Student Speaker Representative
+    company: Peking Union Medical College
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-PUMC
+    location: Beijing, China
+    date_start: '2015-05'
+    date_end: '2015-05'
+    description: 
+
+ - title: Visiting Scholars
+    company: University of North Carolina at Chapel Hill
+    company_url: ''
+    company_logo: org-UNC
+    location: Chapel Hill, North Carolina, United States
+    date_start: '2016-09'
+    date_end: '2016-10'
+    description: 
+
 
 design:
   columns: '2'
