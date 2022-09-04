@@ -24,8 +24,8 @@ date_format: Jun 2021
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/BPTMVSPAAFME
-  date_end: "Aug 2021"
-  date_start: "Jul 2021"
+  date_end: "2021-08"
+  date_start: "2021-07"
   description: 
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -33,8 +33,8 @@ item:
   url: 
 
 - certificate_url: https://www.linkedin.com/in/rui-wang-6b7452b9/details/experience/1809184404/multiple-media-viewer/?treasuryMediaId=1635465425116
-  date_end: "Aug 2021"
-  date_start: "Jun 2021"
+  date_end: "2021-08"
+  date_start: "2021-06"
   description: 
   organization: University of Auckland Micro-Internship 
   organization_url: https://www.talentsolutions.co.nz/
