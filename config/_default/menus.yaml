@@ -13,7 +13,7 @@ main:
   - name: Research Tools
     url: '#research tools'
     weight: 30
-  - name: Some pics & videos
+  - name: Pics & videos
     url: '#pics & videos'
     weight: 40
   - name: Publications
