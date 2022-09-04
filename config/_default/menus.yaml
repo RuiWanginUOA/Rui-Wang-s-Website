@@ -14,7 +14,7 @@ main:
     url: '#research tools'
     weight: 30
   - name: Some pics & videos
-    url: '#some pics & videos'
+    url: '#pics & videos'
     weight: 40
   - name: Publications
     url: '#featured'
