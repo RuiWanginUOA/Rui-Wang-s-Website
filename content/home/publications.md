@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Academic papers, academic conference presentations, etc.'
 
 content:
   # Page type to display. E.g. post, talk, publication...
