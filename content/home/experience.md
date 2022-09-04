@@ -25,7 +25,7 @@ experience:
    - title: PHD Candidate
     company: University of Auckland
     company_url: 'https://www.auckland.ac.nz'
-    company_logo: org-UoA
+    company_logo: 
     location: Auckland, New Zealand
     date_start: '2020-11-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
    - title: Visiting Scholars
     company: University of North Carolina at Chapel Hill
     company_url: ''
-    company_logo: org-UNC
+    company_logo: 
     location: Chapel Hill, North Carolina, United States
     date_start: '2016-09'
     date_end: '2016-10'
@@ -43,7 +43,7 @@ experience:
   - title: International Nurses' Day Student Speaker Representative
     company: Peking Union Medical College
     company_url: ''
-    company_logo: org-PUMC
+    company_logo: 
     location: Beijing, China
     date_start: '2015-05'
     date_end: '2015-05'
@@ -52,7 +52,7 @@ experience:
   - title: Special invited speaker
     company: Pre-ICN Nursing Student Assembly Global Nursing Education - Challenges for Change
     company_url: 'http://www.kicn2015.com/down/2014_Pre_ICN_Student_Assembly.pdf'
-    company_logo: org-ICN Conference & CNR
+    company_logo: 
     location: Seoul, South Korea
     date_start: '2014-12'
     date_end: '2015-01'
