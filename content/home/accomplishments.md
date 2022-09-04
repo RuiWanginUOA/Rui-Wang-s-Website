@@ -38,7 +38,7 @@ item:
   description: 
   organization: University of Auckland Micro-Internship 
   organization_url: https://www.talentsolutions.co.nz/
-  title:  Highly Commended Consultant
+  title: Highly Commended Consultant
   url: 
 
 design:
