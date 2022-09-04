@@ -30,9 +30,6 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
-  {{< video src="research interview moment.mp4" controls="yes" >}} 
-
-
 design:
   # Choose a view for the listings:
   #   1 = List
