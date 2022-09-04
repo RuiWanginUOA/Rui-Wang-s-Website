@@ -10,8 +10,7 @@ headless: true
 weight: 70
 
 title: 'Some pics & videos'
-subtitle:
-
+subtitle: Capture some interesting moments during the research process
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: post
@@ -30,6 +29,9 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
+  {{< video src="research interview moment.mp4" controls="yes" >}} 
+
 
 design:
   # Choose a view for the listings:
