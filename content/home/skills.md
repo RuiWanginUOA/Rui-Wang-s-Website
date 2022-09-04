@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/assets/media/icons/brands/nvivo_macos_bigsur_icon_189892.ico
+  icon: https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/assets/media/icons/brands/nvivo_macos_bigsur_icon_189892.png
   icon_pack: fab
   name: Qualitative Analysis
 - description: 100%
