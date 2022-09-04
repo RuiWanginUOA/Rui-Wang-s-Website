@@ -35,7 +35,7 @@ publication_short:
 abstract: upcoming soon...
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: upcoming soon...
 
 tags: []
 
