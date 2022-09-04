@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-   - title: PHD Candidate
+-   title: PHD Candidate
     company: University of Auckland
     company_url: 'https://www.auckland.ac.nz'
     company_logo: 
@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: 
   
-   - title: Visiting Scholars
+-   title: Visiting Scholars
     company: University of North Carolina at Chapel Hill
     company_url: ''
     company_logo: 
@@ -40,7 +40,7 @@ experience:
     date_end: '2016-10'
     description: 
 
-  - title: International Nurses' Day Student Speaker Representative
+-   title: International Nurses' Day Student Speaker Representative
     company: Peking Union Medical College
     company_url: ''
     company_logo: 
@@ -49,7 +49,7 @@ experience:
     date_end: '2015-05'
     description: 
 
-  - title: Special invited speaker
+-   title: Special invited speaker
     company: Pre-ICN Nursing Student Assembly Global Nursing Education - Challenges for Change
     company_url: 'http://www.kicn2015.com/down/2014_Pre_ICN_Student_Assembly.pdf'
     company_logo: 
