@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.auckland.ac.nz'
     company_logo: org-UoA
     location: Auckland, New Zealand
-    date_start: '2020-11'
+    date_start: '2020-11-01'
     date_end: ''
     description: 
   
