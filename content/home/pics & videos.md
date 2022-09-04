@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Pics & videos'
+title: Pics & videos
 subtitle: Capture some interesting moments during the research process
 content:
   # Page type to display. E.g. post, event, publication...
