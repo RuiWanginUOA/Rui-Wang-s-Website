@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Some pics and videos'
+title: 'Some pics & videos'
 subtitle:
 
 content:
