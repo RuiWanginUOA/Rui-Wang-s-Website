@@ -32,7 +32,7 @@ publication_types: ["1"]
 publication: HiNZ Conference
 publication_short: 
 
-abstract: 
+abstract: upcoming soon...
 
 # Summary. An optional shortened abstract.
 summary: 
