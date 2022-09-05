@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -13,7 +13,7 @@ title: Pics & Videos
 subtitle: Capture some interesting moments during the research process
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: post
+  page_type: pic & video
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
