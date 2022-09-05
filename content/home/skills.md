@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 100%
   icon: quora
-  icon_pack: fas
+  icon_pack: far
   name: Qualitative Analysis
 - description: 100%
   icon: chart-line
