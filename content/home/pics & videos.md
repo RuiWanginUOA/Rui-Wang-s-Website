@@ -13,7 +13,7 @@ title: Pics & Videos
 subtitle: Capture some interesting moments during the research process
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: post
+  page_type: pics & videos
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
