@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: chart-line
+  icon: chart-tree-map
   icon_pack: fas
   name: Qualitative Analysis
 - description: 100%
