@@ -1,5 +1,5 @@
 ---
-title: Pics & videos
+title: Pics & Videos
 cms_exclude: true
 
 # View.
