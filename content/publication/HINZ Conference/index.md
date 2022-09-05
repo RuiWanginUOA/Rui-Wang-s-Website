@@ -14,6 +14,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
 
 date: "2022-09-05"
 doi: ""
@@ -58,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/publication/HINZ%20Conference/hinz-logo.png'
+  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/publication/HINZ%20Conference/hinz.png'
   focal_point: ""
   preview_only: false
 
