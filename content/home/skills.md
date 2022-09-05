@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: quora
-  icon_pack: far
+  icon: chart-line
+  icon_pack: fas
   name: Qualitative Analysis
 - description: 100%
   icon: chart-line
