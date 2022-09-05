@@ -1,6 +1,6 @@
 ---
-title: Pics & videos
-subtitle: Daily video clips of interviews
+title: Daily video clips of interviews
+subtitle: 
 # Summary for listings and search engines
 summary: 
 # Link this post with a project
@@ -44,7 +44,7 @@ categories:
 
 
 <video width="320" controls="yes">
-  <source src="my_video.mp4" type="video/mp4">
+<video src="my_video.mp4" type="video/mp4">
 
 
 If you would like to participate in this research, just follow [**this link**](https://auckland.au1.qualtrics.com/jfe/form/SV_bOfETKNZCCuHHjo) to find more information and complete the registration. Thank you!
