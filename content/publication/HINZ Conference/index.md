@@ -6,7 +6,6 @@ title: "Poster Presentation for HiNZ Conference"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-co authors:
 - Dr. Karen Day
 - Assoc. Prof. Michelle Honey
 
@@ -59,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/publication/example/hinz-logo.png'
+  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/publication/HINZ%20Conference/hinz-logo.png'
   focal_point: ""
   preview_only: false
 
