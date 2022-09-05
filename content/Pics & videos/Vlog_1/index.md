@@ -1,6 +1,6 @@
 ---
-title: Daily video clips of interviews
-subtitle: 
+title: Pics & videos
+subtitle: Daily video clips of interviews
 # Summary for listings and search engines
 summary: 
 # Link this post with a project
