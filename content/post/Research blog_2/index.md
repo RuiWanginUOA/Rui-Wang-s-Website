@@ -56,17 +56,11 @@ Or take a copy of this post with the QR code to share with your whānau/friends/
 Thank you!
 
 Ngā mihi nui | Kind regards
-
 Rui Wang
-
 Doctoral candidate, Health Systems
-
 School of Population Health, Faculty of Medical and Health Sciences
-
 The University of Auckland
-
 Email | rui.wang@auckland.ac.nz
-
 Phone | +64 (0)22 532 6408
 
 Approved by the University of Auckland Human Participants Ethics Committee on 28/07/2022 for three years. Reference Number: UAHPEC23834.
