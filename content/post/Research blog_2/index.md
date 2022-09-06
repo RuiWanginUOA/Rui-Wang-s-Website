@@ -56,13 +56,16 @@ Or take a copy of this post with the QR code to share with your whānau/friends/
 Thank you!
 
 Ngā mihi nui | Kind regards
+
 Rui Wang
+
 Doctoral candidate, Health Systems
+
 School of Population Health, Faculty of Medical and Health Sciences
+
 The University of Auckland
 
 Email | rui.wang@auckland.ac.nz
-        rwan221@aucklanduni.ac.nz
 
 Phone | +64 (0)22 532 6408
 
