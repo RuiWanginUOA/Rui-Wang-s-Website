@@ -1,5 +1,5 @@
 ---
-title: Daily video clips of interviews
+title: Research memory moments
 subtitle: 
 # Summary for listings and search engines
 summary: 
@@ -16,7 +16,7 @@ lastmod: "2022-10-06"
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
