@@ -41,7 +41,5 @@ categories:
 
 ## I love the moments when sending gift cards to my participants.
 
-![screen reader text](image.jpg "caption")
-
 
 If you would like to participate in this research, just follow [**this link**](https://auckland.au1.qualtrics.com/jfe/form/SV_bOfETKNZCCuHHjo) to find more information and complete the registration. Thank you!
