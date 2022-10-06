@@ -20,7 +20,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/pic%20&%20video/Pics%20&%20Videos_1/featured.jpg'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
@@ -41,5 +41,7 @@ categories:
 
 ## I love the moments when sending gift cards to my participants.
 
+{{ $image := resources.Get "images/study moment_1.jpg." }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
 
 If you would like to participate in this research, just follow [**this link**](https://auckland.au1.qualtrics.com/jfe/form/SV_bOfETKNZCCuHHjo) to find more information and complete the registration. Thank you!
