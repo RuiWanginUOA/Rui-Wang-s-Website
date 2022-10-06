@@ -41,7 +41,7 @@ categories:
 
 ## I love the moments when sending gift cards to my participants.
 
-{{ $image := resources.Get "images/study moment_1.jpg." }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+{{ $image := resources.Get "images/study moment_1.jpg" }}
+
 
 If you would like to participate in this research, just follow [**this link**](https://auckland.au1.qualtrics.com/jfe/form/SV_bOfETKNZCCuHHjo) to find more information and complete the registration. Thank you!
