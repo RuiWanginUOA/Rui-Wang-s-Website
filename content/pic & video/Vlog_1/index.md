@@ -16,7 +16,7 @@ lastmod: "2022-09-01"
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
