@@ -21,7 +21,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/pic%20&%20video/Pics%20&%20Videos_1/featured_study%20moment.jpg'
+  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/pic%20&%20video/Pics%20&%20Videos_1/featured.jpg'
   focal_point: ""
   placement: 2
   preview_only: false
