@@ -16,12 +16,11 @@ lastmod: "2022-10-06"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
-
+featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/pic%20&%20video/Pics%20&%20Videos_1/featured.jpg'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
@@ -41,6 +40,8 @@ categories:
 ---
 
 ## I love the moments when sending gift cards to my participants.
+
+{{< figure src="image.jpg" caption="assets/media/picture/featured_study moment.jpg" numbered="true" >}}
 
 
 If you would like to participate in this research, just follow [**this link**](https://auckland.au1.qualtrics.com/jfe/form/SV_bOfETKNZCCuHHjo) to find more information and complete the registration. Thank you!
