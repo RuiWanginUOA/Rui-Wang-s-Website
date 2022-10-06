@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/post/Research%20blog_2/featured_blub.png'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
