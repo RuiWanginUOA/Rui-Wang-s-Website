@@ -55,11 +55,11 @@ It is unexpected that the first phase of the recruiting process is proceeding so
 
 It is with deep appreciation that I write to the following people who have been supporting me:
 
-**To my two incredible supervisors, Dr Karen Day and Assoc. Prof. Michelle Honey,** it is beyond my barren words to say how much I am indebted to them. I feel so fortunate to have them in my life as teachers and friends.
+**To _my two incredible supervisors, Dr Karen Day and Assoc. Prof. Michelle Honey,_** it is beyond my barren words to say how much I am indebted to them. I feel so fortunate to have them in my life as teachers and friends.
 
-**To all participants currently involved in the study program,** I appreciate their enthusiasm in responding to the study, their kindness in sharing their wonderful stories and insights with me, and their willingness to give their valuable time to support my research, which means a significant deal to me.
+**To _all participants currently involved in the study program,_** I appreciate their enthusiasm in responding to the study, their kindness in sharing their wonderful stories and insights with me, and their willingness to give their valuable time to support my research, which means a significant deal to me.
 
-**To management teams at the UOA Recreation Centre and AUT Millennium Gym** for enabling me to promote the study. As a someone who understands the value of teamwork in scientific endeavors, I deeply appreciate this acknowledgment and support.
+**To _management teams at the UOA Recreation Centre and AUT Millennium Gym_** for enabling me to promote the study. As a someone who understands the value of teamwork in scientific endeavors, I deeply appreciate this acknowledgment and support.
 
-**To the UOA FMHS** for offering junkmail and research website and **the FMHS-PGSA** for providing newsletters as the main web-based promotion platforms for the study, which helped me to gain a steady increase of potential participants in the early stage of the study.
+**To _the UOA FMHS_** for offering junkmail and research website and **_the FMHS-PGSA_** for providing newsletters as the main web-based promotion platforms for the study, which helped me to gain a steady increase of potential participants in the early stage of the study.
 
