@@ -1,6 +1,6 @@
 ---
-title: 「LOVE MY RESEARCH」moments (1)
-subtitle: 
+title: 「LOVE MY RESEARCH」MOMENTS (1)
+subtitle: Moments of promoting ads and posting gift cards
 # Summary for listings and search engines
 summary: 
 # Link this post with a project
