@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 80
 
 title: Pics & Videos
 subtitle: Capture some interesting moments during the research process
