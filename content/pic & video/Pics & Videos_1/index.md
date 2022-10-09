@@ -1,5 +1,5 @@
 ---
-title: Research memory moments
+title: 「LOVE MY RESEARCH」moments (1)
 subtitle: 
 # Summary for listings and search engines
 summary: 
@@ -41,5 +41,6 @@ categories:
 
 ## I love the moments when sending gift cards to my participants.
 
+The best part of doing research is keeping a journal of the little things that happen each day; I believe that looking back on those entries will be a treasure trove of information once I reach the summit and reflect on my journey from there.
 
 If you would like to participate in this research, just follow [**this link**](https://auckland.au1.qualtrics.com/jfe/form/SV_bOfETKNZCCuHHjo) to find more information and complete the registration. Thank you!
