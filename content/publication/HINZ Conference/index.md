@@ -88,7 +88,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/master/content/publication/HINZ%20Conference/featured.png'
+  caption: 'https://github.com/RuiWanginUOA/Rui-Wang-s-Website/blob/e99e64e3232b870226c23983dd077eebad87004b/content/publication/HINZ%20Conference/featured.png'
   focal_point: ""
   preview_only: false
 
