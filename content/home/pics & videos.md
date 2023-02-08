@@ -37,6 +37,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-  # Use a 2-column layout
-  columns: "2"
 ---
