@@ -10,11 +10,11 @@ main:
   - name: Research Blogs
     url: '#posts'
     weight: 20
-  - name: Research Tools
-    url: '#research tools'
-    weight: 30
   - name: Pics & Videos
     url: '#pics & videos'
+    weight: 30
+  - name: Research Tools
+    url: '#research tools'
     weight: 40
   - name: Publications
     url: '#featured'
