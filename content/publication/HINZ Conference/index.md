@@ -32,8 +32,7 @@ publication_types: ["1"]
 publication: HiNZ Conference
 publication_short: 
 
-abstract: 
-"Intro:
+abstract: "Intro:
 Excess weight issues, including overweight and obesity, can be referred to as an epidemic worldwide and in New Zealand. It can be linked to the causes of chronic diseases, mental and psychosocial adverse consequences. 
 As a key component of lifestyle intervention, increasing PA has been shown to alleviate morbidity effectively and contributes to preventing excess weight issue. However, the current participation of the population's PA is not promising. Also, PA is a complex and dynamic behavioral state that varies according to the unique habits of the individual. Therefore, it is possible that a generic theoretical model of behavior intervention fails to consider the complexity and specificity of various contexts. 
 Over the last two decades, mHealth technology has become more widely used and provides a cost-effective alternative to traditional weight-loss programmes for those who need support losing weight but cannot otherwise achieve it. Current qualitative studies have mostly focused on users' preferences, viewpoints, and experiences on the functional features of mHealth in weight management. 
