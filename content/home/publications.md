@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: Recent Publications
 subtitle: 'Academic papers, academic conference presentations, etc.'
